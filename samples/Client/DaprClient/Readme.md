@@ -1,8 +1,8 @@
-# Dapr Grpc Client Sample
-The gRPC client sample shows how to make Dapr calls to publish events, save state, get state and delete state using a gRPC client. 
+# Dapr Client Sample
+The client sample shows how to make Dapr calls to publish events, save state, get state and delete state using a Dapr client apis. 
 
 ## Prerequistes
-* [.Net Core SDK 3.0](https://dotnet.microsoft.com/download)
+* [.Net Core SDK 3.1](https://dotnet.microsoft.com/download)
 * [Dapr CLI](https://github.com/dapr/cli)
 * [Dapr DotNet SDK](https://github.com/dapr/dotnet-sdk)
 
